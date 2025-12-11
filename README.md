@@ -20,5 +20,5 @@ A simple menu with C to run command system like ipconfig,wmic etc
 ### Compilation
 
 ```bash
-gcc -o sysmenu sysmenu.c
+gcc -o sysmenu systemenu.c
 
